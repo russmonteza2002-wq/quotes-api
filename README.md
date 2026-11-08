@@ -5,7 +5,7 @@ A small Express REST API that serves quotes from an in-memory array and supports
 ## Install and run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/russmonteza2002-wq/quotes-api.git
 cd quotes-api
 npm install
 npm start        # runs on http://localhost:3000
